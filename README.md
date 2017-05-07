@@ -42,7 +42,7 @@ If you're using a module bundler that supports tree-shaking, such as [Rollup](ht
 
 ## Universal module definition
 
-If you *really* need it, a UMD build is available at [svelte-transitions/dist/svelte-transitions.js](https://unpkg.com/svelte-transitions/dist/svelte-transitions.js), and will register itself as `window.transitions`. We recommend using a module bundler instead, however.
+If you *really* need it, a UMD build is available at [svelte-transitions/dist/svelte-transitions.js](https://unpkg.com/svelte-transitions/dist/svelte-transitions.js), and will register itself as `svelte.transitions`. We recommend using a module bundler instead, however.
 
 
 ## License

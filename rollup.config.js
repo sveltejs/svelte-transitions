@@ -2,7 +2,7 @@ import resolve from 'rollup-plugin-node-resolve';
 
 export default {
 	entry: 'module.js',
-	moduleName: 'transitions',
+	moduleName: 'svelte.transitions',
 	plugins: [ resolve() ],
 	targets: [
 		{ dest: 'index.js', format: 'cjs' },
