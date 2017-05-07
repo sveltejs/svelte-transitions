@@ -1,6 +1,6 @@
 {
   "name": "svelte-transitions",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Officially supported transition plugins for Svelte",
   "main": "index.js",
   "module": "module.js",
@@ -38,6 +38,8 @@
     "rollup-plugin-node-resolve": "^3.0.0"
   },
   "dependencies": {
-    "svelte-transitions-fade": "^1.0.0"
+    "svelte-transitions-fade": "^1.0.0",
+    "svelte-transitions-fly": "^1.0.1",
+    "svelte-transitions-slide": "^1.0.0"
   }
 }

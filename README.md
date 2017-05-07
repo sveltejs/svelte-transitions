@@ -3,6 +3,8 @@
 Officially supported transitions plugin for [Svelte](https://svelte.technology). Includes the following:
 
 * [fade](https://github.com/sveltejs/svelte-transitions-fade)
+* [fly](https://github.com/sveltejs/svelte-transitions-fly)
+* [slide](https://github.com/sveltejs/svelte-transitions-slide)
 
 ## Usage
 
