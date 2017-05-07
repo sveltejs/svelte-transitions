@@ -1,6 +1,6 @@
 # svelte-transitions
 
-Officially supported transition plugin for [Svelte](https://svelte.technology). Includes the following:
+Officially supported transitions plugin for [Svelte](https://svelte.technology). Includes the following:
 
 * [fade](https://github.com/sveltejs/svelte-transitions-fade)
 
