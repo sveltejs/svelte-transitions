@@ -1,0 +1,1 @@
+export { default as fade } from 'svelte-transitions-fade';
