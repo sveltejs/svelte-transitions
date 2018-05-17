@@ -1,5 +1,9 @@
 # svelte-transitions changelog
 
+## 1.2.0
+
+* Add `draw` transition
+
 ## 1.1.1
 
 * UMD registers as `svelte.transitions`, not `transitions`
