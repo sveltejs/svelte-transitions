@@ -1,11 +1,10 @@
 import resolve from 'rollup-plugin-node-resolve';
 
 export default {
-	entry: 'module.js',
-	moduleName: 'svelte.transitions',
-	plugins: [ resolve() ],
-	targets: [
-		{ dest: 'index.js', format: 'cjs' },
-		{ dest: 'dist/svelte-transitions.js', format: 'umd' }
+	input: 'module.js',
+	plugins: [resolve()],
+	output: [
+		{ file: 'index.js', format: 'cjs' },
+		{ file: 'dist/svelte-transitions.js', format: 'umd', name: 'svelte.transitions' }
 	]
 };

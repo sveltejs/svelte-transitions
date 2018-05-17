@@ -5,6 +5,7 @@ Officially supported transitions plugin for [Svelte](https://svelte.technology).
 * [fade](https://github.com/sveltejs/svelte-transitions-fade)
 * [fly](https://github.com/sveltejs/svelte-transitions-fly)
 * [slide](https://github.com/sveltejs/svelte-transitions-slide)
+* [draw](https://github.com/sveltejs/svelte-transitions-draw)
 
 ## Usage
 
