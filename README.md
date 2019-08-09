@@ -1,3 +1,5 @@
+## DEPRECATED — As of Svelte v3, transitions are built into the main package
+
 # svelte-transitions
 
 Officially supported transitions plugin for [Svelte](https://svelte.technology). Includes the following:
