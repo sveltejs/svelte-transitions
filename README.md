@@ -14,7 +14,7 @@ Officially supported transitions plugin for [Svelte](https://svelte.technology).
 Install with npm or yarn:
 
 ```bash
-npm install --save svelte-transitions
+npm install --save-dev svelte-transitions
 ```
 
 Then add the plugins you need to your Svelte component's exported definition:
